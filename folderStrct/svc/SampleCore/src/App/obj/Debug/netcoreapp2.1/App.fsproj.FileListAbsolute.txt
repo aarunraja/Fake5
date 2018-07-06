@@ -1,0 +1,13 @@
+D:\Sample\F#\Fake\Samp1\src\SampleCore\src\App\bin\Debug\netcoreapp2.1\App.deps.json
+D:\Sample\F#\Fake\Samp1\src\SampleCore\src\App\bin\Debug\netcoreapp2.1\App.runtimeconfig.json
+D:\Sample\F#\Fake\Samp1\src\SampleCore\src\App\bin\Debug\netcoreapp2.1\App.runtimeconfig.dev.json
+D:\Sample\F#\Fake\Samp1\src\SampleCore\src\App\bin\Debug\netcoreapp2.1\App.dll
+D:\Sample\F#\Fake\Samp1\src\SampleCore\src\App\bin\Debug\netcoreapp2.1\App.pdb
+D:\Sample\F#\Fake\Samp1\src\SampleCore\src\App\bin\Debug\netcoreapp2.1\Lib.dll
+D:\Sample\F#\Fake\Samp1\src\SampleCore\src\App\bin\Debug\netcoreapp2.1\Lib.pdb
+D:\Sample\F#\Fake\Samp1\src\SampleCore\src\App\obj\Debug\netcoreapp2.1\App.fsprojAssemblyReference.cache
+D:\Sample\F#\Fake\Samp1\src\SampleCore\src\App\obj\Debug\netcoreapp2.1\App.AssemblyInfoInputs.cache
+D:\Sample\F#\Fake\Samp1\src\SampleCore\src\App\obj\Debug\netcoreapp2.1\App.AssemblyInfo.fs
+D:\Sample\F#\Fake\Samp1\src\SampleCore\src\App\obj\Debug\netcoreapp2.1\App.fsproj.CopyComplete
+D:\Sample\F#\Fake\Samp1\src\SampleCore\src\App\obj\Debug\netcoreapp2.1\App.dll
+D:\Sample\F#\Fake\Samp1\src\SampleCore\src\App\obj\Debug\netcoreapp2.1\App.pdb
